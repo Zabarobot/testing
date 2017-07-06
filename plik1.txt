@@ -1,3 +1,5 @@
 Nowy plik do testowania gita
 zmianny po 2 commicie
 konkurencyjna zmianna z branchem 2
+zmiana pliku na branchu
+
