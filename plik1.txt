@@ -1,2 +1,3 @@
 Nowy plik do testowania gita
 zmianny po 2 commicie
+zmiana pliku na branchu
